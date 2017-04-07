@@ -1,0 +1,12 @@
+formContainer {
+    width: 90%;
+    height: 200px;
+    margin: auto;
+    border: 1px solid #000;
+}
+
+input {
+    display: block;
+    margin: auto;
+    width: 200px;
+}
